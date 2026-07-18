@@ -43,7 +43,7 @@ The database includes the following fields:
 24. Exit Date(Date of resignation)
 25. Job function description
 
-[preview]([https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Screenshots/schemas.png]
+[preview]([https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Screenshots/schemas.png])
 ### Data Cleaning
 Maintaining data in a consistent way is important if it is downloaded from the source. If a raw data once downloaded it contains many elements which are either blank, unknown and in inconsistent formatting. So to protect data from inconsistency before analysis:
 - Checked whether if any value is null
@@ -65,12 +65,14 @@ Here are the questions solved with the help of MySQL, which are as follows:
 10. Maximum people in job title  and minimum people in job title
 11. who has completed highest tenure in company
 12. Create a view of all active employees with their EmpID, FirstName, LastName, DepartmentType, and Title
-13. Rank employees by StartDate within each Division.
-14. Which department has the highest average employee rating?
-15. Rank employees within each department based on their performance
-16. Filter employees by Employee Type = 'Contract' and shows their supervision and business unit
-17. Create a list of long tenure and short tenure
-18. Monthly hiring process in 2022
+  [preview](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Screenshots/eda_query.png)
+14. Rank employees by StartDate within each Division.
+15. Which department has the highest average employee rating?
+16. Rank employees within each department based on their performance
+17. Filter employees by Employee Type = 'Contract' and shows their supervision and business unit
+18. Create a list of long tenure and short tenure
+  [preview](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Screenshots/eda_queries2.png)
+19. Monthly hiring process in 2022
 ### Business Insights
 Here are some of the observations extracted while preparing the above mentioned Exploratory Data Analysis:
 1. The highest employment type in an organisation is Full time which recorded 1038 workforce out of total 3000 employees.

@@ -42,7 +42,7 @@ The database includes the following fields:
 23. Start Date(Date of Joining)
 24. Exit Date(Date of resignation)
 25. Job function description
-preview
+[preview]([url](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Screenshots/schemas.png))
 ### Data Cleaning
 Maintaining data in a consistent way is important if it is downloaded from the source. If a raw data once downloaded it contains many elements which are either blank, unknown and in inconsistent formatting. So to protect data from inconsistency before analysis:
 - Checked whether if any value is null

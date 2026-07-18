@@ -98,6 +98,6 @@ Here are some of the observations extracted while preparing the above mentioned 
 ### Project Files 
 1. ‘[Schema.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/schema.sql)’ - Database creation
 2. ‘[Data Cleaning.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Data%20Cleaning.sql)’ - Data cleaning queries
-3. ‘Employee_Data CSV - Data imported in MySQL after the creation of database
+3. ‘[Employee_Data CSV](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/dataset/employee_csv) - Data imported in MySQL after the creation of database
 4. ‘[Eda_queries.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/eda_queries.sql)’ - SQL queries for EDA
 ## Thank you for visiting this project. Feel free to connect or contribute! contact: ishas3283@gmail.com

@@ -96,8 +96,8 @@ Here are some of the observations extracted while preparing the above mentioned 
 13. Concat
 14. datediff
 ### Project Files 
-1. ‘Schema.sql’ - Database creation
-2. ‘Data Cleaning.sql’ - Data cleaning queries
+1. ‘[Schema.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/schema.sql)’ - Database creation
+2. ‘[Data Cleaning.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/Data%20Cleaning.sql)’ - Data cleaning queries
 3. ‘Employee_Data CSV - Data imported in MySQL after the creation of database
-4. ‘Eda_queries.sql’ - SQL queries for EDA
+4. ‘[Eda_queries.sql](https://github.com/ishas3283-bot/employee-data-mysql/blob/main/eda_queries.sql)’ - SQL queries for EDA
 ## Thank you for visiting this project. Feel free to connect or contribute! contact: ishas3283@gmail.com

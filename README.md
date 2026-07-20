@@ -7,7 +7,6 @@ Here are the objectives that help data to extract various insights and also:
 2. Analyze employee data using SQL.
 3. Perform data cleaning to improve data quality.
 4. Explore workforce distribution across departments.
-5. Identify salary and experience trends.
 6. Generate business insights to support decision-making.
 ### Dataset Information
 The dataset is downloaded from Kaggle in common separated values (csv) files.
